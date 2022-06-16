@@ -2,6 +2,7 @@
 
 This is a simple app made for sending crypto to wallets with a public address.
 
+https://crypto-transfer.pages.dev/
 
 ## Technologies used
 
